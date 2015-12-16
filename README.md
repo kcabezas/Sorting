@@ -1,2 +1,2 @@
 # sorting
-# Program to implement various sorting methods.
+Program to implement various sorting methods.
