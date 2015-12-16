@@ -1,6 +1,5 @@
-# sorting
+# Sorting
 Program to implement various sorting methods.
-
 
 Things to note:
 
